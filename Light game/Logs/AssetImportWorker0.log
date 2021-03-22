@@ -320,3 +320,115 @@ Received Import Request.
 Start importing Assets/Scenes/first.unity using Guid(b5fa2f6c4cf76874cbb579cc3c33ca02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9adb04574f528f89d689377ffc10d21d') in 0.003512 seconds
   Import took 0.005846 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 73.400252 seconds.
+  path: Assets/Scripts/PlayerPlatformerController.cs
+  artifactKey: Guid(172644433696dfb41a62cd265af75d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerPlatformerController.cs using Guid(172644433696dfb41a62cd265af75d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f554765086104d6c4fb8acd82371c03c') in 0.016678 seconds
+  Import took 0.019530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012656 seconds.
+  path: Assets/Scripts/PlayerPlatformerController.cs
+  artifactKey: Guid(172644433696dfb41a62cd265af75d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerPlatformerController.cs using Guid(172644433696dfb41a62cd265af75d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f554765086104d6c4fb8acd82371c03c') in 0.003238 seconds
+  Import took 0.005417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.291263 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(69dfdd2164550f7488006dc6d918f62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(69dfdd2164550f7488006dc6d918f62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9f7c8f1c262404567d929a6e5f11ac') in 0.007045 seconds
+  Import took 0.009424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.574591 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(f94fadca61888774b8b7903a8b9191e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(f94fadca61888774b8b7903a8b9191e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060e557cf7abce0ae48529867e317ad9') in 0.007047 seconds
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(f94fadca61888774b8b7903a8b9191e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(f94fadca61888774b8b7903a8b9191e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060e557cf7abce0ae48529867e317ad9') in 0.003197 seconds
+  Import took 0.005936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.370483 seconds.
+  path: Assets/Sprites/Characters
+  artifactKey: Guid(0dd14a721841afc49a6c958bc778ff54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Characters using Guid(0dd14a721841afc49a6c958bc778ff54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d47f37d9c219515db505d28dbdd530') in 0.007550 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 378.478330 seconds.
+  path: Assets/Sprites/Characters/Adventurer Female Sprite Sheet.png
+  artifactKey: Guid(d17d3a799744f7140a0219581b52a5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Characters/Adventurer Female Sprite Sheet.png using Guid(d17d3a799744f7140a0219581b52a5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00f8997bec88656c05e663f181a6ff3') in 0.026678 seconds
+  Import took 0.029637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.546148 seconds.
+  path: Assets/Sprites/Tiles
+  artifactKey: Guid(5412e5cf4e115d44ca1176fd1f2cc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles using Guid(5412e5cf4e115d44ca1176fd1f2cc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32485a7677c7155fd71647063537875e') in 0.008190 seconds
+  Import took 0.010944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.744295 seconds.
+  path: Assets/Sprites/Characters/Adventurer Female Sprite Sheet.png
+  artifactKey: Guid(d17d3a799744f7140a0219581b52a5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Characters/Adventurer Female Sprite Sheet.png using Guid(d17d3a799744f7140a0219581b52a5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ab300affe703efdd07c0fbc1cfbc23') in 0.012564 seconds
+  Import took 0.015681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.442741 seconds.
+  path: Assets/Sprites/Tiles/GrassPlatform_TileSet.psd
+  artifactKey: Guid(073554528dcd2fb44bbe7dbcbe9872d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/GrassPlatform_TileSet.psd using Guid(073554528dcd2fb44bbe7dbcbe9872d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8c6684d1f842aee34b5ffcd6ae3bbc') in 0.104442 seconds
+  Import took 0.106743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.359966 seconds.
+  path: Assets/Sprites/Tiles/Materials
+  artifactKey: Guid(2e03359c37e4667478d48a6969497357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Materials using Guid(2e03359c37e4667478d48a6969497357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd5d8e9ed63a60dcb52ecd38d6bfe9c') in 0.006158 seconds
+  Import took 0.009159 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.767 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1396 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.4 MB.
+System memory in use after: 68.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1878.
+Total: 1.882900 ms (FindLiveObjects: 0.220300 ms CreateObjectMapping: 0.065800 ms MarkObjects: 1.574600 ms  DeleteObjects: 0.020500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
