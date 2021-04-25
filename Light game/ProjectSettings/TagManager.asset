@@ -42,9 +42,48 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BG
+  - name: BG0
+    uniqueID: 1701219839
+    locked: 0
+  - name: BG1
+    uniqueID: 1787032069
+    locked: 0
+  - name: BG2
+    uniqueID: 473535445
+    locked: 0
+  - name: BG3
+    uniqueID: 2346423707
+    locked: 0
+  - name: BG4
+    uniqueID: 3964538151
+    locked: 0
+  - name: BG5
+    uniqueID: 986608239
+    locked: 0
+  - name: BG6
     uniqueID: 618477921
+    locked: 0
+  - name: BG7
+    uniqueID: 1006965521
+    locked: 0
+  - name: BG8
+    uniqueID: 3414623291
+    locked: 0
+  - name: BG9
+    uniqueID: 1190966625
+    locked: 0
+  - name: BG10
+    uniqueID: 1422549037
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1031618533
+    locked: 0
+  - name: Objects
+    uniqueID: 4143647875
+    locked: 0
+  - name: Characters
+    uniqueID: 3979904293
     locked: 0
