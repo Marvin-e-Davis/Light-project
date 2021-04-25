@@ -1718,3 +1718,19 @@ System memory in use after: 76.3 MB.
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2115.
 Total: 2.692600 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.036100 ms MarkObjects: 2.015800 ms  DeleteObjects: 0.408500 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 5643.286901 seconds.
+  path: Assets/BACKGROUND_FOREST/BACKGROUND_FOREST/Background-forest.psd
+  artifactKey: Guid(e3511d6fc4e11b1498be8cf7fda8751d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BACKGROUND_FOREST/BACKGROUND_FOREST/Background-forest.psd using Guid(e3511d6fc4e11b1498be8cf7fda8751d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d97bb8ad9a3874e4aa9335f56917163') in 0.152418 seconds
+  Import took 0.204686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/BACKGROUND_FOREST/BACKGROUND_FOREST/PREVIEW.png
+  artifactKey: Guid(b39ec596fbbc95f419194d79e921a553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BACKGROUND_FOREST/BACKGROUND_FOREST/PREVIEW.png using Guid(b39ec596fbbc95f419194d79e921a553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5547188c0ce87c6ebd75d9efa50c907') in 0.015307 seconds
+  Import took 0.018081 seconds .
+
